@@ -3,6 +3,7 @@
   - Copy this into your profile repo's README.md
   - Replace placeholders (ALL CAPS) with your info
 -->
+[![An image of @neltechcreator's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neltechcreator)](https://holopin.io/@neltechcreator)
 
 <!-- Top banner -->
 <div align="center">
